@@ -1,4 +1,4 @@
-#Team Player Attitude
+## Team Player Attitude
 Collaboration is critical for developing effective products. If I were to work with a coworker on the subject, I would prioritize:
 
 - **Clear Communication**: Ensuring that we discuss milestones and issues on a regular basis, as well as setting clear expectations and goals.
