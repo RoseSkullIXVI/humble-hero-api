@@ -1,3 +1,12 @@
+# Superheroes API (NestJS)
+
+This is a simple backend API built with NestJS to manage superheroes. It allows adding superheroes and fetching a list of superheroes sorted by their humility scores.
+
+## Features:
+- **POST /superheroes**: Add a new superhero with a name, superpower, and humility score (0 - 10).
+- **GET /superheroes**: Fetch all superheroes sorted by their humility score (descending).
+
+
 ## Team Player Attitude
 Collaboration is critical for developing effective products. If I were to work with a coworker on the subject, I would prioritize:
 
