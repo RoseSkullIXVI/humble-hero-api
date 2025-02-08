@@ -31,7 +31,7 @@ export class HeroesService {
     * @returns An array of superheroes sorted by humility score.
     */
     fetchAll(): Heroes[] {
-        return this.SuperHeroes.sort((a, b) => a.humilityScore - b.humilityScore);
+        return this.SuperHeroes.sort((a, b) => b.humilityScore - a.humilityScore);
     }
 
 
